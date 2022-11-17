@@ -1,0 +1,57 @@
+body {
+    color: black;
+    text-align: center;
+}
+.pendentes {
+  background: #8fd14f;
+  color: rgb(250, 250, 250);
+  font-size: 20px;
+  border-style: solid;
+  text-align: center;
+  border-collapse: collapse;
+  border-radius: 15px;
+  padding: 3px 4px 4px 4px;
+  text-decoration: none;
+  border: 2px #6fae2f;
+  margin: 10px;
+}
+.concluidas {
+    background: #0ca789;
+    color: rgb(250, 250, 250);
+    font-size: 20px;
+    border-style: solid;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 15px;
+    padding: 3px 4px 4px 4px;
+    text-decoration: none;
+    border: 2px #085a4a;
+    margin: 10px;  
+}
+.excluidas {
+    background: #eb4045;
+    color: rgb(250, 250, 250);
+    font-size: 20px;
+    border-style: solid;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 15px;
+    padding: 3px 4px 4px 4px;
+    text-decoration: none;
+    border: 2px #9a0d12;
+    margin: 10px;   
+}
+li {
+    list-style: none;
+    background: rgb(250, 250, 250);
+    color: black;
+    font-size: 20px;
+    border-style: solid;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 15px;
+    padding: 3px 4px 4px 4px;
+    text-decoration: none;
+    border: 2px black;
+    margin: 10px;       
+}
